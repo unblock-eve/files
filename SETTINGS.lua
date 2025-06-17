@@ -12,6 +12,7 @@ return {
         ["Polar Bear"]    = true,
         ["chicken zombie"]    = true,
         ["Disco Bee"]    = true,
+        ["butterfly"]    = true,
         
     },
 
