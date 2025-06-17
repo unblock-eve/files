@@ -1,22 +1,19 @@
 return {
     ENABLE_AGE_FILTER    = true,
     ENABLE_WEIGHT_FILTER = true,
-    MIN_AGE              = 20,
+    MIN_AGE              = 30,
     MIN_WEIGHT           = 9,
 
     ALLOWED_NAMES = {
-        ["tarantula hawk"] = true,
-        ["bee"]            = true,
         ["moth"]           = true,
         ["queen bee"]      = true,
-        ["grey mouse"]     = true,
         ["racoon"]         = true,
         ["brown mouse"]    = true,
         ["dragonfly"]    = true,
         ["Polar Bear"]    = true,
-        ["Chicken Zombie"]    = true,
+        ["chicken zombie"]    = true,
         ["Disco Bee"]    = true,
-        ["Cooked Owl"]    = true,
+        ["cooked owl"]    = true,
         
     },
 
