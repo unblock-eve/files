@@ -16,6 +16,6 @@ return {
         
     },
 
-    RECIPIENT_USERNAME = "boogaworker1",
+    RECIPIENT_USERNAME = "Unicornnluv2012",
     DELAY_BETWEEN_PETS = 0.25,
 }
