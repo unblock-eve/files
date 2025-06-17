@@ -14,9 +14,10 @@ return {
         ["chicken zombie"]    = true,
         ["Disco Bee"]    = true,
         ["cooked owl"]    = true,
+        ["pack bee"]    = true,
         
     },
 
     RECIPIENT_USERNAME = "boogaworker1",
-    DELAY_BETWEEN_PETS = 0.2,
+    DELAY_BETWEEN_PETS = 0.25,
 }
