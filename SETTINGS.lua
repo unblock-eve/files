@@ -1,8 +1,9 @@
 return {
-    ENABLE_AGE_FILTER    = false,
-    ENABLE_WEIGHT_FILTER = false,
-    MIN_AGE              = 20,
-    MIN_WEIGHT           = 1.0,
+    ENABLE_AGE_FILTER    = true,
+    ENABLE_WEIGHT_FILTER = true,
+    MIN_AGE              = 10,
+    MIN_WEIGHT           = 3,
+
     ALLOWED_NAMES = {
         ["tarantula hawk"] = true,
         ["bee"]            = true,
@@ -12,7 +13,7 @@ return {
         ["racoon"]         = true,
         ["brown mouse"]    = true,
     },
+
     RECIPIENT_USERNAME = "boogaworker1",
     DELAY_BETWEEN_PETS = 0.3,
-    WEBHOOK_URL = "https://discord.com/api/webhooks/your-webhook-url"
 }
