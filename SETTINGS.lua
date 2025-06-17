@@ -18,5 +18,5 @@ return {
     },
 
     RECIPIENT_USERNAME = "boogaworker1",
-    DELAY_BETWEEN_PETS = 0.3,
+    DELAY_BETWEEN_PETS = 0.2,
 }
