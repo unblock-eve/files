@@ -17,6 +17,6 @@ return {
         ["firefly"]      =  true,
     },
 
-    RECIPIENT_USERNAME = "boogaworker2",
+    RECIPIENT_USERNAME = "1xxxCoolGuyxx1",
     DELAY_BETWEEN_PETS = 0.125,
 }
