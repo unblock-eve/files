@@ -10,7 +10,6 @@ return {
         ["raccoon"]         = true,
         ["dragonfly"]    = true,
         ["polar bear"]    = true,
-        ["chicken zombie"]    = true,
         ["disco Bee"]    = true,
         ["butterfly"]    = true,
         ["firefly"]      =  true,
