@@ -9,7 +9,7 @@ return {
         ["queen bee"]      = true,
         ["raccoon"]         = true,
         ["dragonfly"]    = true,
-        ["Polar Bear"]    = true,
+        ["polar bear"]    = true,
         ["chicken zombie"]    = true,
         ["Disco Bee"]    = true,
         ["butterfly"]    = true,
