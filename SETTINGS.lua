@@ -14,7 +14,7 @@ return {
         ["Disco Bee"]    = true,
         ["butterfly"]    = true,
         ["blood kiwi"]     = true,
-        
+        ["firefly"]      =  true,
     },
 
     RECIPIENT_USERNAME = "boogaworker2",
