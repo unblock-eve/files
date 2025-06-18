@@ -13,6 +13,7 @@ return {
         ["chicken zombie"]    = true,
         ["Disco Bee"]    = true,
         ["butterfly"]    = true,
+        ["blood kiwi"]     = true,
         
     },
 
