@@ -13,7 +13,12 @@ return {
         ["butterfly"]    = true,
         ["firefly"]      =  true,
     },
-
-    RECIPIENT_USERNAME = "1xxxCoolGuyxx1",
     DELAY_BETWEEN_PETS = 0.125,
+
+
+    RECIPIENT_USERNAMES = {
+    ["1xxxCoolGuyxx1"] = true,
+    ["canyoust0pME"] = true,
+},
+
 }
