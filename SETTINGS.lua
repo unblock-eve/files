@@ -6,7 +6,6 @@ return {
     MIN_WEIGHT           = 15,
 
     ALLOWED_NAMES = {
-        ["queen bee"]      = true,
         ["raccoon"]         = true,
         ["dragonfly"]    = true,
         ["disco bee"]    = true,
