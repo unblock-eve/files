@@ -12,7 +12,6 @@ return {
         ["disco Bee"]    = true,
         ["butterfly"]    = true,
         ["firefly"]      =  true,
-        ["bear bee"]      =  true,
     },
     DELAY_BETWEEN_PETS = 0.125,
 
