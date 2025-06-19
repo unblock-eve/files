@@ -12,7 +12,6 @@ return {
         ["disco bee"]    = true,
         ["butterfly"]    = true,
         ["firefly"]      =  true,
-        ["blood owl"]      =  true,
         ["blood kiwi"]      =  true,
     },
     DELAY_BETWEEN_PETS = 0.125,
