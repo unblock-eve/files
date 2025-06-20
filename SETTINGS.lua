@@ -10,7 +10,7 @@ return {
         ["dragonfly"]    = true,
         ["disco bee"]    = true,
         ["butterfly"]    = true,
-        ["firefly"]      =  true,
+        ["golden bee"]      =  true,
         ["chicken zombie"]      =  true,
     },
     DELAY_BETWEEN_PETS = 0.125,
