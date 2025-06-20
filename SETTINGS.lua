@@ -12,7 +12,6 @@ return {
         ["butterfly"]    = true,
         ["golden bee"]      =  true,
         ["chicken zombie"]      =  true,
-        ["blood hedgehog"]      =  true,
     },
     DELAY_BETWEEN_PETS = 0.125,
 
