@@ -11,7 +11,6 @@ return {
         ["disco bee"]    = true,
         ["butterfly"]    = true,
         ["golden bee"]      =  true,
-        ["chicken zombie"]      =  true,
     },
     DELAY_BETWEEN_PETS = 0.125,
 
