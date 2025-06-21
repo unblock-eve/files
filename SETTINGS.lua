@@ -13,9 +13,6 @@ return {
         ["mimic octopus"]      =  true,
         ["scarlet macaw"]      =  true,
         ["red fox"]      =  true,
-        ["giant ant"]      =  true,
-        [""]      =  true,
-        [""]      =  true,
     },
     DELAY_BETWEEN_PETS = 0.125,
 
