@@ -22,6 +22,7 @@ return {
 
     RECIPIENT_USERNAMES = {
     ["jandels_pet"] = true,
+    ["1xxxcoolguyxx1"] = true,
     ["canyoust0pME"] = true,
 },
 
