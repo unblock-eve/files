@@ -12,7 +12,6 @@ return {
         ["butterfly"]    = true,
         ["mimic octopus"]      =  true,
         ["sea turtle"]      =  true,
-        ["pack bee"]      =  true,
     },
     DELAY_BETWEEN_PETS = 0.125,
 
