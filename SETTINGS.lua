@@ -7,7 +7,7 @@ return {
 
     ALLOWED_NAMES = {
         ["raccoon"]         = true,
-        ["dragonfly"]    = true,
+        [""]    = true,
         ["disco bee"]    = true,
         ["butterfly"]    = true,
         ["mimic octopus"]      =  true,
