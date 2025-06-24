@@ -10,6 +10,7 @@ return {
         ["disco bee"]    = true,
         ["butterfly"]    = true,
         ["mimic octopus"]      =  true,
+        ["seal"] =
     },
     DELAY_BETWEEN_PETS = 0.125,
 
