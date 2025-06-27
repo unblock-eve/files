@@ -11,6 +11,7 @@ return {
         ["butterfly"]    = true,
         ["mimic octopus"]      =  true,
         ["dragonfly"] = true
+        ["polar bear"] = true
     },
     DELAY_BETWEEN_PETS = 0.125,
 
