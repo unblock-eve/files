@@ -13,8 +13,8 @@ return {
         ["dragonfly"] = true
         ["polar bear"] = true
         ["toucan"] = true
-        ["Fennec Fox"] = true
-        ["Hyacinth Macaw"] = true
+        ["fennec fox"] = true
+        ["hyacinth macaw"] = true
         ["toucan"] = true
         ["toucan"] = true
     },
