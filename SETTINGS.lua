@@ -13,6 +13,10 @@ return {
         ["dragonfly"] = true
         ["polar bear"] = true
         ["toucan"] = true
+        ["Fennec Fox"] = true
+        ["Hyacinth Macaw"] = true
+        ["toucan"] = true
+        ["toucan"] = true
     },
     DELAY_BETWEEN_PETS = 0.125,
 
