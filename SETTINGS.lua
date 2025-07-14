@@ -10,13 +10,13 @@ return {
         ["disco bee"]    = true,
         ["butterfly"]    = true,
         ["mimic octopus"]      =  true,
-        ["dragonfly"] = true
-        ["polar bear"] = true
-        ["toucan"] = true
-        ["fennec fox"] = true
-        ["hyacinth macaw"] = true
-        ["toucan"] = true
-        ["toucan"] = true
+        ["dragonfly"] = true,
+        ["polar bear"] = true,
+        ["toucan"] = true,
+        ["fennec fox"] = true,
+        ["hyacinth macaw"] = true,
+        ["toucan"] = true,
+        ["toucan"] = true,
     },
     DELAY_BETWEEN_PETS = 0.125,
 
