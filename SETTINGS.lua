@@ -23,5 +23,6 @@ return {
     PET_MUTATIONS = {
         ["ascended"] = false,
         ["rainbow"]  = true,
+        ["inverted"] = false
     },
 }
