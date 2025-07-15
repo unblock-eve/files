@@ -11,6 +11,7 @@ return {
         ["mimic octopus"]   = true,
         ["dragonfly"]       = true,
         ["chicken zombie"] = true,
+        ["blood owl"] = true,
     },
 
     DELAY_BETWEEN_PETS = 0.125,
