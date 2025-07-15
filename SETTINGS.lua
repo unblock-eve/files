@@ -16,6 +16,7 @@ return {
         ["dragonfly"]       = true,
         ["chicken zombie"] = true,
         ["blood owl"] = true,
+        ["fennec fox"] = true
     },
 
     DELAY_BETWEEN_PETS = 0.125,
