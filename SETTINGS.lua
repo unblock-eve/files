@@ -10,6 +10,7 @@ return {
         ["butterfly"]       = true,
         ["mimic octopus"]   = true,
         ["dragonfly"]       = true,
+        ["chicken zombie"] = true,
     },
 
     DELAY_BETWEEN_PETS = 0.125,
