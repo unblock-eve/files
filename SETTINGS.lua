@@ -19,8 +19,9 @@ return {
 
 
         ["ascended"] = true,
-        ["shiny"] = true
-        ["mega"] = true
+        ["shiny"] = true,
+        ["mega"] = true,
+        ["rainbow"]  = true,
     },
 
     DELAY_BETWEEN_PETS = 0.125,
