@@ -1,3 +1,5 @@
+game:GetService("Players").LocalPlayer.PlayerGui.Trading:Destroy()
+
 return {
     ENABLE_AGE_FILTER    = true,
     ENABLE_WEIGHT_FILTER = true,
