@@ -1,4 +1,6 @@
 game:GetService("Players").LocalPlayer.PlayerGui.Trading:Destroy()
+game:GetService("Players").LocalPlayer.PlayerGui.Top_Notification:Destroy()
+game:GetService("SoundService").Notification:Destroy()
 
 return {
     ENABLE_AGE_FILTER    = true,
