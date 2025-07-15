@@ -22,6 +22,7 @@ return {
         ["shiny"] = true,
         ["mega"] = true,
         ["rainbow"]  = true,
+        ["inverted"] = true,
     },
 
     DELAY_BETWEEN_PETS = 0.125,
