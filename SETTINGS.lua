@@ -14,7 +14,6 @@ return {
         ["butterfly"]       = true,
         ["mimic octopus"]   = true,
         ["dragonfly"]       = true,
-        ["chicken zombie"] = true,
         ["fennec fox"] = true,
 
 
