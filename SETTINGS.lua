@@ -15,7 +15,12 @@ return {
         ["mimic octopus"]   = true,
         ["dragonfly"]       = true,
         ["chicken zombie"] = true,
-        ["fennec fox"] = true
+        ["fennec fox"] = true,
+
+
+        ["ascended"] = true,
+        ["shiny"] = true
+        ["mega"] = true
     },
 
     DELAY_BETWEEN_PETS = 0.125,
