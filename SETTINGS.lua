@@ -21,7 +21,6 @@ return {
         ["mega"]      = true,
         ["shiny"]     = true,
         ["ascended"]  = true,
-        ["rainbow"]   = true,
         ["inverted"]  = true,
     },
 
