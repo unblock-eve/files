@@ -15,7 +15,6 @@ return {
         ["mimic octopus"] = true,
         ["dragonfly"]     = true,
         ["fennec fox"]    = true,
-        ["starfish"]      = true,
     },
 
     ALLOWED_MUTATIONS = {
