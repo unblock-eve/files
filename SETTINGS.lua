@@ -15,7 +15,7 @@ return {
         ["mimic octopus"]   = true,
         ["dragonfly"]       = true,
         ["fennec fox"] = true,
-        ["Pterodactyl"] = true,
+        ["pterodactyl"] = true,
 
 
         ["ascended"] = true,
