@@ -24,6 +24,11 @@ return {
         ["inverted"] = true,
     },
 
+    DISALLOWED_NAMES  = {
+    ["Carrot"] = true,
+    },
+
+    
     DELAY_BETWEEN_PETS = 0.125,
 
     RECIPIENT_USERNAMES = {
