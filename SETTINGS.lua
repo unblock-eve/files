@@ -31,10 +31,4 @@ return {
         ["1xxxCoolGuyxx1"]      = true,
         ["canyoust0pME"]        = true,
     },
-
-    PET_MUTATIONS = {
-        ["ascended"] = false,
-        ["rainbow"]  = true,
-        ["inverted"] = false
-    },
 }
