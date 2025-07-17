@@ -19,9 +19,7 @@ return {
 
     ALLOWED_MUTATIONS = {
         ["mega"]      = true,
-        ["shiny"]     = true,
         ["ascended"]  = true,
-        ["inverted"]  = true,
     },
 
     DELAY_BETWEEN_PETS = 0.125,
