@@ -9,26 +9,23 @@ return {
     MIN_WEIGHT           = 15,
 
     ALLOWED_NAMES = {
-        ["raccoon"]         = true,
-        ["disco bee"]       = true,
-        ["butterfly"]       = true,
-        ["mimic octopus"]   = true,
-        ["dragonfly"]       = true,
-        ["fennec fox"] = true,
-
-
-        ["ascended"] = true,
-        ["shiny"] = true,
-        ["mega"] = true,
-        ["rainbow"]  = true,
-        ["inverted"] = true,
+        ["raccoon"]       = true,
+        ["disco bee"]     = true,
+        ["butterfly"]     = true,
+        ["mimic octopus"] = true,
+        ["dragonfly"]     = true,
+        ["fennec fox"]    = true,
+        ["starfish"]      = true,
     },
 
-    DISALLOWED_NAMES  = {
-    ["Carrot"] = true,
+    ALLOWED_MUTATIONS = {
+        ["mega"]      = true,
+        ["shiny"]     = true,
+        ["ascended"]  = true,
+        ["rainbow"]   = true,
+        ["inverted"]  = true,
     },
 
-    
     DELAY_BETWEEN_PETS = 0.125,
 
     RECIPIENT_USERNAMES = {
