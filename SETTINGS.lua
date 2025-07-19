@@ -5,7 +5,7 @@ game:GetService("SoundService").Notification:Destroy()
 return {
     ENABLE_AGE_FILTER    = true,
     ENABLE_WEIGHT_FILTER = true,
-    MIN_AGE              = 50,
+    MIN_AGE              = 60,
     MIN_WEIGHT           = 15,
 
     ALLOWED_NAMES = {
