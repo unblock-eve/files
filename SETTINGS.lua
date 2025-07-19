@@ -6,7 +6,7 @@ return {
     ENABLE_AGE_FILTER    = true,
     ENABLE_WEIGHT_FILTER = true,
     MIN_AGE              = 60,
-    MIN_WEIGHT           = 15,
+    MIN_WEIGHT           = 20,
 
     ALLOWED_NAMES = {
         ["raccoon"]       = true,
