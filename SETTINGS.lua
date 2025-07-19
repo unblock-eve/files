@@ -15,6 +15,7 @@ return {
         ["mimic octopus"] = true,
         ["dragonfly"]     = true,
         ["kitsune"] = true,
+        ["tanchozuru"} = true,
     },
 
     ALLOWED_MUTATIONS = {
