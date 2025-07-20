@@ -15,11 +15,13 @@ return {
         ["mimic octopus"] = true,
         ["dragonfly"]     = true,
         ["kitsune"] = true,
+        ["nihonzaru"] = true,
 
     },
 
     ALLOWED_MUTATIONS = {
         ["ascended"]  = true,
+        ["rainbow"] = true,
     },
 
     DELAY_BETWEEN_PETS = 0.125,
