@@ -15,7 +15,6 @@ return {
         ["mimic octopus"] = true,
         ["dragonfly"]     = true,
         ["kitsune"] = true,
-        ["moon cat"] = true,
         ["nihonzaru"] = true,
     },
 
