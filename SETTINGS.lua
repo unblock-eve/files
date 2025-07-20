@@ -16,7 +16,7 @@ return {
         ["dragonfly"]     = true,
         ["kitsune"] = true,
         ["tanchozuru"] = true,
-        ["blood hedgehog"] = true,
+
     },
 
     ALLOWED_MUTATIONS = {
