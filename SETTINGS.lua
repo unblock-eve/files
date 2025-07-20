@@ -19,7 +19,6 @@ return {
     },
 
     ALLOWED_MUTATIONS = {
-        ["mega"]      = true,
         ["ascended"]  = true,
     },
 
