@@ -37,7 +37,7 @@ return {
 
     ALLOWED_MUTATIONS = {
         ["ascended"]  = true,
-        ["rainbow"]
+        ["rainbow"] = true,
     },
 
     DELAY_BETWEEN_PETS = 0.125,
