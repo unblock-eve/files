@@ -6,12 +6,12 @@ local PlayerGui = LocalPlayer:FindFirstChild("PlayerGui")
 if PlayerGui then
     local trading = PlayerGui:FindFirstChild("Trading")
     if trading then
-        trading:Destroy()
+        trading.Padding.Visible = false
     end
 
     local topNotification = PlayerGui:FindFirstChild("Top_Notification")
     if topNotification then
-        topNotification:Destroy()
+        topNotification.Frame.Visible = false
     end
 end
 
