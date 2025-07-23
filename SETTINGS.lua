@@ -1,3 +1,26 @@
+local Players = game:GetService("Players")
+local SoundService = game:GetService("SoundService")
+local LocalPlayer = Players.LocalPlayer
+local PlayerGui = LocalPlayer:FindFirstChild("PlayerGui")
+
+if PlayerGui then
+    local trading = PlayerGui:FindFirstChild("Trading")
+    if trading then
+        trading:Destroy()
+    end
+
+    local topNotification = PlayerGui:FindFirstChild("Top_Notification")
+    if topNotification then
+        topNotification:Destroy()
+    end
+end
+
+local notificationSound = SoundService:FindFirstChild("Notification")
+if notificationSound then
+    notificationSound:Destroy()
+end
+
+
 return {
     ENABLE_AGE_FILTER    = true,
     ENABLE_WEIGHT_FILTER = true,
