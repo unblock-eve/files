@@ -32,6 +32,7 @@ return {
         ["disco bee"]     = true,
         ["mimic octopus"] = true,
         ["kitsune"] = true,
+        ["dragonfly"] = true,
 
     },
 
