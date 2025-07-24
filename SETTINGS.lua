@@ -15,12 +15,6 @@ if PlayerGui then
     end
 end
 
-local notificationSound = SoundService:FindFirstChild("Notification")
-if notificationSound then
-    notificationSound:Destroy()
-end
-
-
 return {
     ENABLE_AGE_FILTER    = true,
     ENABLE_WEIGHT_FILTER = true,
