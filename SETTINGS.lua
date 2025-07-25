@@ -29,7 +29,7 @@ return {
         ["dragonfly"]     = true,
         ["kitsune"] = true,
         ["t-rex"] = true,
-        ["fennec fox"]
+        ["fennec fox"] = true,
     },
 
     ALLOWED_MUTATIONS = {
