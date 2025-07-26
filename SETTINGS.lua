@@ -3,6 +3,10 @@ local SoundService = game:GetService("SoundService")
 local LocalPlayer = Players.LocalPlayer
 local PlayerGui = LocalPlayer:FindFirstChild("PlayerGui")
 
+game:GetService("Players").LocalPlayer.PlayerGui.PetUI.Enabled = false
+game:GetService("SoundService").Click.Volume = 0
+game:GetService("SoundService").Notification.Volume = 0
+
 if PlayerGui then
     local trading = PlayerGui:FindFirstChild("Trading")
     if trading then
