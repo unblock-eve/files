@@ -24,17 +24,12 @@ return {
     ALLOWED_NAMES = {
         ["raccoon"]       = true,
         ["disco bee"]     = true,
-        ["butterfly"]     = true,
-        ["mimic octopus"] = true,
-        ["dragonfly"]     = true,
         ["kitsune"] = true,
-        ["t-rex"] = true,
         ["fennec fox"] = true,
     },
 
     ALLOWED_MUTATIONS = {
         ["ascended"]  = true,
-        ["rainbow"] = true,
     },
 
     DELAY_BETWEEN_PETS = 0.125,
