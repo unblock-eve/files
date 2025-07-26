@@ -30,6 +30,7 @@ return {
         ["disco bee"]     = true,
         ["kitsune"] = true,
         ["fennec fox"] = true,
+        ["corrupt kitsune"] = true,
     },
 
     ALLOWED_MUTATIONS = {
