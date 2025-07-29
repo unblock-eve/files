@@ -22,7 +22,7 @@ end
 return {
     ENABLE_AGE_FILTER    = true,
     ENABLE_WEIGHT_FILTER = true,
-    MIN_AGE              = 60,
+    MIN_AGE              = 75,
     MIN_WEIGHT           = 25,
 
     ALLOWED_NAMES = {
