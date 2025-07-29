@@ -30,7 +30,7 @@ return {
         ["disco bee"]     = true,
         ["kitsune"] = true,
         ["fennec fox"] = true,
-        ["corrupted kitsune"] = true,
+        --["corrupted kitsune"] = true,
         ["chicken zombie"] = true,
     },
 
