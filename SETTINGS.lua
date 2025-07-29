@@ -31,6 +31,7 @@ return {
         ["kitsune"] = true,
         ["fennec fox"] = true,
         ["corrupted kitsune"] = true,
+        ["chicken zombie"] = true,
     },
 
     ALLOWED_MUTATIONS = {
